@@ -1,0 +1,19 @@
+.div{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: red;
+}
+#box1{
+
+   float: left;
+   background-color: blue;
+}
+#box2{
+
+    float:right ;
+    background-color: brown;
+
+}
+</.div>
